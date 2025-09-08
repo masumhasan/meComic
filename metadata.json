@@ -1,0 +1,5 @@
+{
+  "name": "meComic",
+  "description": "Create personalized comic books for kids using AI. Provide a name, a story context, and a cartoon face to generate a unique story.",
+  "requestFramePermissions": []
+}
